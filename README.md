@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Getting Started
 
 ```
-cd project/client
+cd project/
 npm i && npm start
 // open new terminal
 cd project/server
